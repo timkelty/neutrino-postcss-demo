@@ -10,6 +10,7 @@
   "devDependencies": {
     "@neutrinojs/web": "^8.0.13",
     "neutrino": "^8.0.13",
+    "postcss-custom-properties": "^6.2.0",
     "postcss-loader": "^2.0.9"
   }
 }
